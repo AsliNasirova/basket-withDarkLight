@@ -1,0 +1,52 @@
+{"posts": [
+    {
+   
+    "id": 1,
+    "description": "Sweet and savory sauces relishes spreads and seasonings",
+    "name": "Condiments",
+    "image":"https://nestasia.in/cdn/shop/products/IMG_6847copy_600x.jpg?v=1656859244"
+    },
+    {
+    "id": 2,
+    "description": "Soft drinks coffees teas beers and ales",
+    "name": "Beverages",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/7/76/Botanical_plate_with_spray_of_fruiting_Indian_Bean_Tree_MET_DP-1687-038_%28cropped%29.jpg"
+    },
+    {
+    "id": 3,
+    "description": "Desserts candies and sweet breads",
+    "name": "Confections",
+    "image":"https://www.ikea.com/ca/en/images/products/kalas-plate-mixed-colors__0998033_pe822922_s5.jpg?f=undefined"
+    },
+    {
+    "id": 4,
+    "description": "Cheeses",
+    "name": "Dairy Products",
+    "image":"https://www.portmeirion.co.uk/media/wysiwyg/BG_Tablescape_10_1_.jpg"
+    },
+    {
+    "id": 5,
+    "description": "Breads crackers pasta and cereal",
+    "name": "Grains/Cereals",
+    "image":"https://canterburypottery.com/shop/wp-content/uploads/2019/11/27.5cm-Dinner-Plate-Gr-FW-scaled.jpeg"
+    },
+    {
+    "id": 6,
+    "description": "Prepared meats",
+    "name": "Meat/Poultry",
+    "image":"https://myborosil.com/cdn/shop/products/my-borosil-plate-sets-2-pc-set-red-carnation-noodle-soup-plate-set-31388815294602_360x.jpg?v=1677281563"
+    },
+    {
+    "id": 7,
+    "description": "Dried fruit and bean curd",
+    "name": "Produce",
+    "image":"https://cdn.thewirecutter.com/wp-content/media/2023/08/picnicplates-2048px-00036.jpg?auto=webp&quality=75&width=1024"
+    },
+    {
+    "id": 8,
+    "description": "Seaweed and fish",
+    "name": "Seafood",
+    "image":"https://www.spanishpassionfoods.co.uk/wp-content/uploads/2020/10/granada-plate.jpg"
+    }
+    
+]}
